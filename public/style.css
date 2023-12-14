@@ -50,7 +50,7 @@ textarea {
 
 .message {
     padding: 10px; 
-    border-radius: 4px; 
+    border-radius: 4px 8px; 
     margin-bottom: 40px;
     max-width: 300px;
     position: relative;
